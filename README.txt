@@ -1,0 +1,1 @@
+Ce dossier contient un mini projet , une petite application qui tourne avec la moteur d'inférence drools
